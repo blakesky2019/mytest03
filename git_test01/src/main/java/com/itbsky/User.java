@@ -7,5 +7,6 @@ package com.itbsky;
  */
 public class User {
     private int a=5;
+    private int b=5;
 
 }
